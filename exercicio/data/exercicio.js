@@ -1,11 +1,7 @@
-[
-	[
-		{
-			"gabarito": [
-				{
-					"resposta": "a1"
-				}
-			]
-		}
-	]
-]
+const questao = {
+  gabarito: [
+    {
+      resposta: "a1"
+    }
+  ]
+};
